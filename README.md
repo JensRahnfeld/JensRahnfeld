@@ -3,9 +3,9 @@
 ## 🤵 About me
 My name is Jens Rahnfeld and i am currently enrolled in a Master of Science, Computer Science program at the Albert Ludwigs University of Freiburg. I'm a Deep Learning enthusiast, especially excited when it comes to applications in the field of Computer Vision. Projects shine the most, when you can actually see and interact with something. Thus, i also picked up web development skills for showcasing my work & creating awesome apps.
 
-:book: Bachelor of Science, Computer Science (2016-2021). This is where my journey as computer scientist started. After a broad introduction to various fields i discovered deep learning and particularly computer vision for myself. In my thesis, i worked on action-conditioned video prediction with 3D images.
+:book: 2016-2021 __Bachelor of Science, Computer Science__. This is where my journey as computer scientist started. After a broad introduction to various fields i discovered deep learning and particularly computer vision for myself. In my thesis, i worked on action-conditioned video prediction with 3D images.
 
-:book: Bachelor of Science, Mathematics (2018-2022). Always trying to understand the underlying concepts i realized my lack of math skills. So i decided to them through a math degree with focus on statistics. In my thesis, i worked on non-parametric maximum likelihood estimation for type 1 censored data.
+:book: 2018-2022 __Bachelor of Science, Mathematics__. Always trying to understand the underlying concepts i realized my lack of math skills. So i decided to them through a math degree with focus on statistics. In my thesis, i worked on non-parametric maximum likelihood estimation for type 1 censored data.
 
 ## :muscle: Technical Skills 
 💻 Programming Languages
