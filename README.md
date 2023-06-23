@@ -4,20 +4,20 @@
 
 ## Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=py" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=py" title="Python" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" title="Javascript" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" width="40" height="40" />
 </p>
 
 ## Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=django" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=pytorch" title="Pytorch" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=django" title="Django" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="40" height="40" />
 </p>
 
 <!--
