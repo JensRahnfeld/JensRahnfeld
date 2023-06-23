@@ -4,12 +4,20 @@
 
 ## Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,c" />
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=c" />
 </p>
 
 ## Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,react,django,docker,git" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 <!--
