@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### About me
+
+### Programming Languages
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="HTML" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="40" height="40">
+</p>
+
 <!--
 **JensRahnfeld/JensRahnfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
