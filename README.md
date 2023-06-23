@@ -2,8 +2,9 @@
 
 ### About me
 
-## Programming Languages
+### :muscle: Technical Skills 
 <p>
+  💻 Programming Languages
   <img src="https://skillicons.dev/icons?i=py" title="Python" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" width="40" height="40" />
@@ -11,8 +12,8 @@
   <img src="https://skillicons.dev/icons?i=c" title="C" width="40" height="40" />
 </p>
 
-## Frameworks & Tools
 <p>
+  🔧 Frameworks & Tools
   <img src="https://skillicons.dev/icons?i=pytorch" title="Pytorch" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=react" title="React" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=django" title="Django" width="40" height="40" />
