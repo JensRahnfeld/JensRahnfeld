@@ -5,7 +5,7 @@ My name is Jens Rahnfeld and i am currently enrolled in a Master of Science, Com
 
 :book: 2016-2021 __Bachelor of Science, Computer Science__. This is where my journey as computer scientist started. After a broad introduction to various fields i discovered deep learning and particularly computer vision for myself. In my thesis, i worked on action-conditioned video prediction with 3D images.
 
-:book: 2018-2022 __Bachelor of Science, Mathematics__. Always trying to understand the underlying concepts i realized my lack of math skills. So i decided to them through a math degree with focus on statistics. In my thesis, i worked on non-parametric maximum likelihood estimation for type 1 censored data.
+:book: 2018-2022 __Bachelor of Science, Mathematics__. Always trying to understand the underlying concepts i realized my lack of math skills. So i decided polish to them through a math degree with focus on statistics. In my thesis, i worked on non-parametric maximum likelihood estimation for type 1 censored data.
 
 ## :muscle: Technical Skills 
 💻 Programming Languages
