@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### About me
+### 🤵 About me
+My name is Jens Rahnfeld and i am currently enrolled in a Master of Science, Computer Science program at the Albert Ludwigs University of Freiburg. I'm a Deep Learning enthusiast, especially excited when it comes to applications in the field of Computer Vision. Projects shine the most, when you can actually see and interact with something. Thus, i also picked up web development skills for showcasing my work & creating awesome apps.
 
 ### :muscle: Technical Skills 
 💻 Programming Languages
