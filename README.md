@@ -17,6 +17,7 @@ My name is Jens Rahnfeld and i am currently enrolled in a Master of Science, Com
   <img src="https://skillicons.dev/icons?i=html" title="HTML" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=js" title="Javascript" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=ts" title="Typescript" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=c" title="C" width="40" height="40" />
 </p>
 
@@ -27,6 +28,7 @@ My name is Jens Rahnfeld and i am currently enrolled in a Master of Science, Com
   <img src="icons/pytorch-lightning-logo.svg" title="Pytorch Lightning" width="40" height="40" />
   <img src="icons/weights-and-biases-logo-black.svg" title="Weights & Biases" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=react" title="React" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" width="40" height="40" />
   <img src="icons/material-ui.svg" title="Material UI" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=django" title="Django" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="40" height="40" />
