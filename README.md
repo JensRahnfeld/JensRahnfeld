@@ -15,17 +15,21 @@ My name is Jens Rahnfeld and i am a Full-Stack Software Engineer at SICK. I'm a 
 💻 Programming Languages
 
 <p>
+  <img src="https://skillicons.dev/icons?i=ts" title="Typescript" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=py" title="Python" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=js" title="Javascript" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=ts" title="Typescript" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=c" title="C" width="40" height="40" />
 </p>
 
 🔧 Frameworks & Tools
 
 <p>
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=pytorch" title="Pytorch" width="40" height="40" />
   <img src="icons/pytorch-lightning-logo.svg" title="Pytorch Lightning" width="40" height="40" />
   <img src="icons/weights-and-biases-logo-black.svg" title="Weights & Biases" width="40" height="40" />
