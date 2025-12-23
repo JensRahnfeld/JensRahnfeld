@@ -2,7 +2,7 @@
 
 ## 🤵 About me
 
-My name is Jens Rahnfeld and i am a Full-Stack Software Engineer at SICK. I'm a Deep Learning enthusiast, especially excited when it comes to applications in the field of Computer Vision. Working within the intersection between Deep Learning & Web Development, I am grateful to have been given the opportunity to build apps that make Deep Learning accessable to the broad community.
+My name is Jens Rahnfeld and i am a Full-Stack Software Engineer at SICK. I'm a Deep Learning enthusiast, especially excited when it comes to applications in the field of Computer Vision. Working within the intersection between Deep Learning & Web Development, I am grateful to have been given the opportunity to build apps that make Deep Learning accessible to the broad community.
 
 :book: 2022-2025 **Master of Science, Computer Science**. Deepening my knowledge in Computer Vision, I specialized in Self-Supervised Learning and Explainable AI. Projects included studying feature spaces of e.g. iBOT, DINOv2, benchmarking various attribution methods such as Shapley Values and designing a diffusion-like attribution method. 
 
